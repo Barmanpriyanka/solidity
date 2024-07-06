@@ -14,3 +14,6 @@ contract ViewAndPure {
         return i + j;
     }
 }
+//A function is a group of reusable code that can be called anywhere in your program
+//This eliminates the need to write the same code again and again
+//It helps programmers write modular (smaller units) code and separate bigger problems into separate parts
